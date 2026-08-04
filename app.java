@@ -12,3 +12,6 @@ int main() {
     
     return 0;
 }
+
+
+I want to update this code to java or python
