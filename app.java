@@ -13,5 +13,5 @@ int main() {
     return 0;
 }
 
-
+I want to update this code to java
 This is c language code and the old version
